@@ -10,7 +10,9 @@ body{margin: 0;}
     background-size: cover;
     background-blend-mode: lighten;
     border-bottom: #33A8DB 1px solid;
+    padding: 60px;
 }
+
 
 
 .banner-content {
