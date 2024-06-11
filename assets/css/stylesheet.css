@@ -21,6 +21,7 @@
 h1{
     font-weight: 900;
     background-image: linear-gradient(#33A8DB, #1472B7);
+    background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -29,4 +30,15 @@ h1{
     font-family: raleway, Arial, Helvetica, sans-serif;
     font-weight: 400;
     color: white;
+}
+
+.banner .banner-content button {
+    font-family: raleway;
+    font-weight: 900;
+    padding: 19px 91px 19px 91px;
+    border: #3BA8DD 2px solid;
+    background-image: url(#3BA8DD);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
