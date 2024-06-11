@@ -1,11 +1,15 @@
+body{margin: 0;}
+
 .banner{
-    margin: 0;
     height: 605px;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     font-family: raleway, Arial, Helvetica, sans-serif;
+    background-image: url(../images/banner.png), linear-gradient(#000000, #041f33, #000000);
+    background-blend-mode: lighten;
+    border-bottom: #33A8DB 1px solid;
 }
 
 .banner-content {
