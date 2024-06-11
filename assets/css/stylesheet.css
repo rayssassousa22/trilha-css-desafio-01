@@ -1,0 +1,7 @@
+.banner{
+    margin: 0;
+    height: 605px;
+    display: flexbox;
+    align-content: center;
+    text-align: center;
+}
