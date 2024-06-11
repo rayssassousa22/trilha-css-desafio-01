@@ -1,10 +1,16 @@
 .banner{
     margin: 0;
     height: 605px;
-    display: flexbox;
-    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
     font-family: raleway, Arial, Helvetica, sans-serif;
+}
+
+.banner-content {
+    height: calc(100% - 50%);
+    width: 510px;
 }
 
 @font-face {
@@ -17,4 +23,10 @@ h1{
     background-image: linear-gradient(#33A8DB, #1472B7);
     -webkit-background-clip: text;
     color: transparent;
+}
+
+.banner .banner-content p {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
 }
