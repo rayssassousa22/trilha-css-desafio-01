@@ -4,4 +4,17 @@
     display: flexbox;
     align-content: center;
     text-align: center;
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: raleway;
+    src: url(../images/Raleway-VariableFont_wght.ttf);
+}
+
+h1{
+    font-weight: 900;
+    background-image: linear-gradient(#33A8DB, #1472B7);
+    -webkit-background-clip: text;
+    color: transparent;
 }
