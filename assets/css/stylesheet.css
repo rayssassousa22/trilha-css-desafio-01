@@ -51,3 +51,17 @@ h1{
     text-transform: uppercase;
     font-size: 1rem;
 }
+
+#course-content{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    border-bottom: #33A8DB 1px solid;
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: #3BA8DD;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
