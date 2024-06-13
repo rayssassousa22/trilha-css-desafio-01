@@ -13,8 +13,6 @@ body{margin: 0;}
     padding: 60px;
 }
 
-
-
 .banner-content {
     margin: auto;
     width: 600px;
@@ -32,12 +30,14 @@ h1{
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
+    text-transform: uppercase;
 }
 
 .banner .banner-content p {
     font-family: raleway, Arial, Helvetica, sans-serif;
     font-weight: 400;
     color: white;
+    font-size: 20px;
 }
 
 .banner .banner-content button {
@@ -48,4 +48,6 @@ h1{
     background-image: linear-gradient(#3BA8DD, #1472B7);
     background-clip: text;
     color: transparent;
+    text-transform: uppercase;
+    font-size: 1rem;
 }
