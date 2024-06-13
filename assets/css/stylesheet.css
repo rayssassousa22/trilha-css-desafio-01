@@ -1,5 +1,7 @@
 body{margin: 0; background-color: black; text-align: center;}
 
+section {margin: 100px auto;}
+
 .banner{
     height: 605px;
     display: flex;
@@ -64,7 +66,6 @@ h1{
     color: white;
     font-size: 1rem;
     width: 800px;
-    margin: 100px auto;
 }
 
 h2{
@@ -125,4 +126,5 @@ span{
     justify-items: center;
     color: white;
     font-size: 1rem;
+    border: 1px 0px 1px 0px solid #3BA8DD;
 }
