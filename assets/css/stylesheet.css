@@ -99,7 +99,7 @@ span{
     border: 1px 0px 1px 0px solid #3BA8DD;
     height: 500px;
     background-attachment: fixed;
-    font-family: sans-serif;
+    padding: 200px;
 }
 
 #transform-world p{
@@ -108,8 +108,7 @@ span{
     text-shadow: 3px 2px #3BA8DD;
     text-transform: lowercase;
     font-size: 2.5rem;
-    font-weight: bold;
+    font-weight: 900;
     text-align: left;
     white-space: normal;
-    margin: auto auto auto 100px ;
 }
