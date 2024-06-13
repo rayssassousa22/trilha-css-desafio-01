@@ -96,5 +96,6 @@ span{
 #transform-world{
     background-image: url(../images/woman-code.png);
     background-size: cover;
-    overflow: scroll;
+    border: 1px 0px 1px 0px solid #3BA8DD;
+    height: 305px;
 }
