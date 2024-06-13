@@ -99,4 +99,7 @@ span{
     border: 1px 0px 1px 0px solid #3BA8DD;
     height: 500px;
     background-attachment: fixed;
+    color: white;
+    text-shadow: 5px 5px #3BA8DD;
+    text-transform: lowercase;
 }
