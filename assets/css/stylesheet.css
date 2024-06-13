@@ -55,8 +55,6 @@ h1{
 #course-content{
     background-color: black;
     text-align: center;
-    justify-content: center;
-    justify-items: center;
     border-bottom: #33A8DB 1px solid;
     font-family: raleway, Arial, Helvetica, sans-serif;
     color: white;
@@ -76,6 +74,8 @@ p{
 .modules-list{
     display: grid;
     font-size: 1rem;
+    justify-content: center;
+    justify-items: center;
 }
 
 .module{
