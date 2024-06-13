@@ -99,6 +99,7 @@ span{
     border: 1px 0px 1px 0px solid #3BA8DD;
     height: 500px;
     background-attachment: fixed;
+    font-family: sans-serif;
 }
 
 #transform-world p{
