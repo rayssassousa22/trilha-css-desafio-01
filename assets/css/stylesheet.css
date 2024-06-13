@@ -56,6 +56,7 @@ h1{
     background-color: black;
     text-align: center;
     align-items: center;
+    justify-content: center;
     border-bottom: #33A8DB 1px solid;
     font-family: raleway, Arial, Helvetica, sans-serif;
     color: white;
