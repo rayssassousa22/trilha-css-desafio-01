@@ -102,7 +102,7 @@ span{
 #transform-world{
     background-image: url(../images/woman-code.png);
     background-size: cover;
-    border: 1px 0px 1px 0px solid #3BA8DD;
+    margin-top: 1px solid #3BA8DD;
     max-height: 560px;
     background-attachment: fixed;
     padding: 200px;
@@ -126,6 +126,5 @@ span{
     justify-items: center;
     color: white;
     font-size: 1rem;
-    margin-bottom: 1px solid #3BA8DD;
-    margin-top: 1px solid #3BA8DD;
+    border-bottom: 1px solid #3BA8DD;
 }
