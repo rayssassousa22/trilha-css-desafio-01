@@ -59,6 +59,8 @@ h1{
     font-family: raleway, Arial, Helvetica, sans-serif;
     color: white;
     font-size: 1rem;
+    width: 800px;
+    margin: 100px auto;
 }
 
 h2{
