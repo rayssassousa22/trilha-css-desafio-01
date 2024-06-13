@@ -138,7 +138,7 @@ footer{
     font-family: raleway, Arial, Helvetica, sans-serif;
     padding: 50px;
     font-size: 1rem;
-    background-image: linear-gradient(black, rgba(59, 168, 221, 0.4));
+    background-image: linear-gradient(black, rgba(59, 168, 221, 0.2));
 }
 
 footer a{
