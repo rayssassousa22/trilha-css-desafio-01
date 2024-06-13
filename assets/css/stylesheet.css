@@ -108,7 +108,7 @@ span{
 }
 
 #transform-world p{
-    width: 255px;
+    width: 230px;
     color: white;
     text-shadow: 3px 2px #3BA8DD;
     text-transform: lowercase;
@@ -116,5 +116,4 @@ span{
     font-weight: 900;
     text-align: left;
     white-space: normal;
-    font-family: roboto;
 }
