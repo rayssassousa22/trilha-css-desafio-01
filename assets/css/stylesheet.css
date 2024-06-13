@@ -136,6 +136,12 @@ footer{
     text-align: center;
     color: white;
     font-family: raleway, Arial, Helvetica, sans-serif;
-    padding: 20px;
+    padding: 50px;
     font-size: 1rem;
+}
+
+footer a{
+    text-decoration: none;
+    color: #3BA8DD;
+    font-weight: 700;
 }
