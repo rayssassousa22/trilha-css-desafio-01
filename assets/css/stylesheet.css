@@ -84,7 +84,7 @@ p{
     border: 1px solid #3BA8DD;
     padding: 1rem 127px 1rem 127px;
     width: fit-content;
-    box-shadow: inset 10px 10px 5px black;
+    box-shadow: inset 10px -10px 5px rgb(0,0,0, 0.4);
 }
 
 span{
